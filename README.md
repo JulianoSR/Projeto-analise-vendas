@@ -10,7 +10,7 @@ explorar consultas SQL básicas e gerar algumas análises sobre os dados.
 ## Ferramentas utilizadas
 - SQL Server
 - EXCEL
--Github
+- Github
 
 ---
 ## Estrutura do projeto
